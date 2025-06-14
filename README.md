@@ -2,7 +2,7 @@
 
 A comprehensive Power BI dashboard that provides deep insights into the **Indian stock market**, specifically focusing on stock fundamentals, technical performance, dividends, bonus/splits, and trending news. This dashboard enables investors, analysts, and enthusiasts to make **data-driven decisions**.
 
-The dataset in the dashboard is curated from stock market records, news feeds, and financial APIs.
+**The dataset in the dashboard is curated from Yahoo Finance, stock market records, news feeds, and financial APIs.**
 
 ---
 📌 **Main Page**
